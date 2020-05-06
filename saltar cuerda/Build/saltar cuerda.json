@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "saltar cuerda",
+"dataUrl": "saltar cuerda.data.unityweb",
+"wasmCodeUrl": "saltar cuerda.wasm.code.unityweb",
+"wasmFrameworkUrl": "saltar cuerda.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
